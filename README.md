@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+production-ready+web+%26+blockchain+platforms;Crafting+scalable+DApps+%26+token+ecosystems;Delivering+end-to-end+full+stack+solutions;Open+to+remote+%26+international+collaborations" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+production-ready+web+%26+blockchain+platforms;Crafting+scalable+DApps+%26+token+ecosystems;Delivering+end-to-end+full+stack+solutions;Open+to+remote+%26+international+collaborations" alt="Typing SVG" />
 
 <br/>
 
@@ -24,6 +24,8 @@
 const albert = {
   role: "Full Stack Developer & Blockchain Engineer",
   location: "Philippines (Remote-ready)",
+  journeyStarted: 2010,
+  path: "Self-taught — learned by building, breaking, and rebuilding",
   focus: [
     "Scalable Web Applications",
     "DApps & Smart Contract Integration",
@@ -36,6 +38,33 @@ const albert = {
 ```
 
 I'm a **Full Stack Developer** from the Philippines with years of experience delivering **production-ready** web applications, decentralized platforms, and backend systems. I specialize in turning complex ideas into reliable, scalable software — from token ecosystems and GameFi DApps to full business websites and game server infrastructure.
+
+---
+
+## 💡 My Journey — Self-Taught Since 2010
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%20didn%27t%20wait%20for%20a%20degree%20or%20a%20bootcamp.%20I%20started%20learning%20in%202010%20with%20nothing%20but%20curiosity%20and%20determination.&author=Albert%20Camingawan&border=true&bgColor=0f172a&titleColor=7C3AED&textColor=E2E8F0" alt="Journey Quote"/>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%20worked%20my%20way%20up%20from%20the%20ground%20—%20teaching%20myself%20every%20skill%20I%20needed,%20one%20project%20at%20a%20time,%20until%20I%20became%20a%20Full%20Stack%20Developer.&author=Albert%20Camingawan&border=true&bgColor=0f172a&titleColor=7C3AED&textColor=E2E8F0" alt="Self Learning Quote"/>
+
+</div>
+
+<br/>
+
+> *"No shortcuts. No hand-holding. Just years of late nights, real-world projects, failed attempts, and the discipline to learn whatever the next challenge demanded — frontend, backend, blockchain, cloud, or systems engineering."*
+
+<table>
+<tr>
+<td align="center" width="25%">📚 <b>2010</b><br/>Started self-learning<br/>programming fundamentals</td>
+<td align="center" width="25%">🔧 <b>2012–2014</b><br/>IT experience &<br/>hands-on systems work</td>
+<td align="center" width="25%">🎮 <b>2014–2019</b><br/>Built game servers,<br/>launchers & backends</td>
+<td align="center" width="25%">🚀 <b>2021–Today</b><br/>Full Stack &<br/>Blockchain developer</td>
+</tr>
+</table>
 
 <table>
 <tr>
@@ -98,13 +127,17 @@ I'm a **Full Stack Developer** from the Philippines with years of experience del
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devflames&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7C3AED&icon_color=A78BFA&text_color=E2E8F0&border_radius=10" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=devflames&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7C3AED&icon_color=A78BFA&text_color=E2E8F0&border_radius=10&cache_seconds=86400" height="165" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devflames&theme=tokyonight&hide_border=true&background=0F172A&stroke=7C3AED&ring=7C3AED&fire=A78BFA&currStreakLabel=7C3AED&sideNums=E2E8F0&currStreakNum=FFFFFF&sideLabels=E2E8F0&dates=94A3B8&border_radius=10" height="165" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=devflames&theme=tokyonight&hide_border=true&background=0F172A&stroke=7C3AED&ring=7C3AED&fire=A78BFA&currStreakLabel=7C3AED&sideNums=E2E8F0&currStreakNum=FFFFFF&sideLabels=E2E8F0&dates=94A3B8&border_radius=10" height="165" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devflames&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7C3AED&text_color=E2E8F0&border_radius=10&langs_count=8" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devflames&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7C3AED&text_color=E2E8F0&border_radius=10&langs_count=8&cache_seconds=86400" height="165" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devflames&theme=react-dark&hide_border=true&bg_color=0f172a&color=7c3aed&line=a78bfa&point=7c3aed&area=true&height=300" alt="Contribution Graph"/>
 
 </div>
 
@@ -234,7 +267,7 @@ I'm open to **freelance projects**, **remote roles**, and **international collab
 
 <div align="center">
 
-*"I build software that works in production — reliable, scalable, and built to last."*
+*"I started with self-learning in 2010, worked my way up through every challenge, and became a Full Stack Developer by never stopping — one skill, one project, one breakthrough at a time."*
 
 <br/>
 
