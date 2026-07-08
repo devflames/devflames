@@ -1,106 +1,245 @@
-# Hi, I'm Albert Camingawan 👋
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:7c3aed&height=220&section=header&text=Albert%20Camingawan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Blockchain%20Engineer%20%7C%20Systems%20Engineer&descAlignY=58&descSize=18&descAlign=50"/>
 
-**Full Stack Developer | Blockchain Engineer | Systems Engineer**
+<div align="center">
 
-I'm a Full Stack Developer from the Philippines with several years of experience building scalable web applications, decentralized applications (DApps), blockchain ecosystems, and backend systems. I enjoy solving complex technical problems and creating software that is reliable, efficient, and production-ready.
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+production-ready+web+%26+blockchain+platforms;Crafting+scalable+DApps+%26+token+ecosystems;Delivering+end-to-end+full+stack+solutions;Open+to+remote+%26+international+collaborations" alt="Typing SVG" />
 
-## 🚀 About Me
+<br/>
 
-* 💻 Full Stack Developer specializing in modern JavaScript ecosystems
-* 🌐 Experienced in React, Next.js, Node.js, Express, and NestJS
-* ⛓️ Blockchain developer with experience building DApps, smart contract integrations, and token ecosystems
-* ☁️ Experienced with cloud deployment, REST APIs, authentication systems, and database architecture
-* 🎮 Systems engineer with experience developing MMORPG server infrastructure, launchers, debugging, and reverse engineering
-* 🌍 Open to remote opportunities and international collaborations
+<!-- Social Badges -->
+[![GitHub](https://img.shields.io/badge/GitHub-devflames-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devflames)
+[![Email](https://img.shields.io/badge/Email-devflames%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devflames@gmail.com)
+[![Website](https://img.shields.io/badge/Website-friendsialize.com-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.friendsialize.com)
+[![Location](https://img.shields.io/badge/Location-Cebu%2C%20Philippines-0EA5E9?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```typescript
+const albert = {
+  role: "Full Stack Developer & Blockchain Engineer",
+  location: "Philippines (Remote-ready)",
+  focus: [
+    "Scalable Web Applications",
+    "DApps & Smart Contract Integration",
+    "GameFi & Cross-chain Platforms",
+    "Cloud-native Backend Systems",
+  ],
+  currentlyLearning: ["AI-assisted Development", "Blockchain Infrastructure"],
+  openTo: ["Remote Opportunities", "International Collaborations", "Client Projects"],
+};
+```
+
+I'm a **Full Stack Developer** from the Philippines with years of experience delivering **production-ready** web applications, decentralized platforms, and backend systems. I specialize in turning complex ideas into reliable, scalable software — from token ecosystems and GameFi DApps to full business websites and game server infrastructure.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**What I bring to your project**
+
+- End-to-end ownership — design through deployment
+- Blockchain & Web3 integration expertise
+- Clean, maintainable, production-grade code
+- Strong debugging & performance optimization
+- Clear communication with clients & teams
+
+</td>
+<td width="50%" valign="top">
+
+**Core expertise**
+
+- Modern JavaScript / TypeScript ecosystems
+- React, Next.js, Node.js, NestJS
+- Smart contracts, DApps, DeFi, NFTs
+- REST APIs, auth systems, databases
+- AWS, Azure, GCP & CI/CD pipelines
+- C++, C# & low-level systems work
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🛠 Tech Stack
 
-### Frontend
+<div align="center">
 
-* React
-* Next.js
-* Vue.js
-* Angular
-* TypeScript
-* JavaScript
-* Tailwind CSS
-* Bootstrap
-* Sass
+### Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,angular,nodejs,nestjs,express,laravel,php,java,cpp,cs&perline=8)](https://skillicons.dev)
 
-### Backend
+### Databases, Cloud & Tools
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,aws,azure,gcp,docker,git,github,figma,flutter&perline=8)](https://skillicons.dev)
 
-* Node.js
-* Express.js
-* NestJS
-* Laravel
-* REST APIs
+</div>
 
-### Blockchain
+<br/>
 
-* Smart Contracts
-* Web3
-* DApps
-* DeFi
-* NFT Applications
-* Token Systems
+<div align="center">
 
-### Databases
+| Frontend | Backend | Blockchain | DevOps & Cloud |
+|:--------:|:-------:|:----------:|:--------------:|
+| React · Next.js · Nuxt | Node.js · Express · NestJS | Smart Contracts · Web3 | AWS · Azure · GCP |
+| Vue · Angular · TypeScript | Laravel · ThinkPHP · REST | DApps · DeFi · NFTs | Git · CI/CD · Docker |
+| Tailwind · Bootstrap · Sass | Auth Systems · APIs | Token Ecosystems | Unit & Integration Testing |
+| Figma · Adobe XD · Sketch | PostgreSQL · MongoDB | Multi-chain Integration | Performance Optimization |
 
-* PostgreSQL
-* MongoDB
-* MySQL
-* Firebase
+</div>
 
-### Cloud & DevOps
+---
 
-* AWS
-* Microsoft Azure
-* Google Cloud
-* Git
-* CI/CD
+## 📊 GitHub Analytics
 
-### Mobile
+<div align="center">
 
-* React Native
-* Flutter
+<img src="https://github-readme-stats.vercel.app/api?username=devflames&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7C3AED&icon_color=A78BFA&text_color=E2E8F0&border_radius=10" height="165" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devflames&theme=tokyonight&hide_border=true&background=0F172A&stroke=7C3AED&ring=7C3AED&fire=A78BFA&currStreakLabel=7C3AED&sideNums=E2E8F0&currStreakNum=FFFFFF&sideLabels=E2E8F0&dates=94A3B8&border_radius=10" height="165" alt="GitHub Streak"/>
 
-## 📌 Featured Projects
+<br/><br/>
 
-### AevaPay
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devflames&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7C3AED&text_color=E2E8F0&border_radius=10&langs_count=8" height="165" alt="Top Languages"/>
 
-* Developed the complete AXL Token ecosystem
-* Built the production DApp
-* Integrated blockchain transactions and smart contracts
+</div>
 
-### Guild of Guilds
+---
 
-* Full Stack Blockchain Developer
-* Developed a cross-chain GameFi platform
-* Implemented Web3 features and blockchain integrations
+## 💼 Professional Experience
 
-### Chaucer's Literary & Talent Bureau
+| Period | Role | Company | Highlights |
+|:------:|:-----|:--------|:-----------|
+| **2021** | Senior Full Stack Developer | [**AevaPay**](https://axltoken.com) | Built AXL Token ecosystem & production DApp |
+| **2021–2022** | AI Tasker (Freelance) | Remotasks / Smart Ecosystem | Remote AI task delivery at scale |
+| **2022** | Full Stack Developer | [**Guild of Guilds**](https://www.guildofguilds.gg/) | Cross-chain GameFi platform & DApp |
+| **2023** | Web Developer | [**CLATB**](https://clatb.org/) | Full website built from scratch |
+| **2024** | Marketing Manager | [**Blossoms.com**](https://blossoms.com/) | Digital marketing & platform growth |
+| **2014–2019** | Game Server Developer | Private MMORPG Servers | Servers, launchers & reverse engineering |
+| **2012–2014** | IT Department | Autoliv Cebu | Enterprise IT operations |
 
-* Designed and developed the entire production website from scratch
-* Built both frontend and backend architecture
+---
 
-### MMORPG Infrastructure
+## 🚀 Featured Projects
 
-* Built custom game servers
-* Developed launcher systems
-* Worked on reverse engineering, debugging, and performance optimization
+<div align="center">
 
-## 🎯 Current Interests
+<table>
+<tr>
+<td width="50%" valign="top">
 
-* Full Stack Architecture
-* AI-assisted Development
-* Blockchain Infrastructure
-* Web3 Applications
-* Cloud Systems
-* Scalable Backend Development
+### ⛓️ [AevaPay — AXL Token](https://axltoken.com)
 
-## 📫 Connect With Me
+[![Live Demo](https://img.shields.io/badge/Live-Demo-7C3AED?style=for-the-badge&logo=ethereum&logoColor=white)](https://axltoken.com)
 
-* GitHub: https://github.com/devflames
-* Email: [devflames@gmail.com](mailto:devflames@gmail.com)
+- Built & launched the complete **AXL Token** ecosystem
+- Developed full-stack DApp with smart contract integration
+- Implemented secure transaction flows & wallet concepts
+- Designed multi-chain architecture & authentication
 
-> I enjoy building production-ready applications, learning new technologies, and contributing to innovative software projects.
+</td>
+<td width="50%" valign="top">
+
+### 🎮 [Guild of Guilds](https://www.guildofguilds.gg/)
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-7C3AED?style=for-the-badge&logo=unity&logoColor=white)](https://www.guildofguilds.gg/)
+[![Docs](https://img.shields.io/badge/Docs-GitBook-248BF5?style=for-the-badge&logo=gitbook&logoColor=white)](https://grown-up-gamefi.gitbook.io/)
+
+- Cross-chain **GameFi** platform for guilds & players
+- Full-stack DApp with token-based game mechanics
+- Scalable Web3 architecture & blockchain integrations
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [Chaucer's Literary & Talent Bureau](https://clatb.org/)
+
+[![Live Demo](https://img.shields.io/badge/Live-Site-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://clatb.org/)
+
+- Designed & developed the **entire production website**
+- Responsive UI with full frontend & backend architecture
+- Production-ready deployment for a literary agency
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ MMORPG Infrastructure
+
+[![Systems](https://img.shields.io/badge/Systems-Engineering-0EA5E9?style=for-the-badge&logo=server-fault&logoColor=white)](#)
+
+- Custom game servers & backend services
+- Launcher systems — patching, updates, asset delivery
+- Reverse engineering, debugging & performance tuning
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎯 Services I Offer
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| 🌐 **Full Stack Web Development** | ⛓️ **Blockchain & DApp Development** | ☁️ **Cloud & API Architecture** |
+| React, Next.js, Node.js platforms | Smart contracts, Web3, token systems | AWS, Azure, REST APIs, auth |
+| 📱 **Mobile Development** | 🎮 **Game & Systems Engineering** | 🤖 **AI-Integrated Solutions** |
+| React Native & Flutter apps | MMORPG servers, launchers, debugging | AI-assisted workflows & SaaS |
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+**High School Diploma** — Pulpogan National High School *(2007 – 2008)*  
+📍 Consolacion, Cebu, Philippines
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+I'm open to **freelance projects**, **remote roles**, and **international collaborations**.
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-@devflames-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devflames)
+[![Email](https://img.shields.io/badge/Email-devflames%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devflames@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B63%20955%20850%205615-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/639558505615)
+[![Website](https://img.shields.io/badge/Portfolio-friendsialize.com-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.friendsialize.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=devflames&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*"I build software that works in production — reliable, scalable, and built to last."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f172a&height=100&section=footer&fontSize=14&fontColor=ffffff&animation=fadeIn"/>
+
+**Thanks for visiting! Let's build something great together.** 🚀
+
+</div>
