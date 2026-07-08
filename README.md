@@ -127,17 +127,39 @@ I'm a **Full Stack Developer** from the Philippines with years of experience del
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devflames&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7C3AED&icon_color=A78BFA&text_color=E2E8F0&border_radius=10&cache_seconds=86400" height="165" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://streak-stats.demolab.com/?user=devflames&theme=tokyonight&hide_border=true&background=0F172A&stroke=7C3AED&ring=7C3AED&fire=A78BFA&currStreakLabel=7C3AED&sideNums=E2E8F0&currStreakNum=FFFFFF&sideLabels=E2E8F0&dates=94A3B8&border_radius=10" height="165" alt="GitHub Streak"/>
+<!-- Profile overview with contribution heatmap -->
+<a href="https://github.com/devflames">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devflames&theme=tokyonight" width="100%" alt="GitHub Profile Details"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devflames&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7C3AED&text_color=E2E8F0&border_radius=10&langs_count=8&cache_seconds=86400" height="165" alt="Top Languages"/>
+<!-- Stats + Streak side by side -->
+<a href="https://github.com/devflames">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devflames&theme=tokyonight" height="180" alt="GitHub Stats"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/devflames">
+  <img src="https://streak-stats.demolab.com/?user=devflames&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devflames&theme=react-dark&hide_border=true&bg_color=0f172a&color=7c3aed&line=a78bfa&point=7c3aed&area=true&height=300" alt="Contribution Graph"/>
+<!-- Top Languages -->
+<a href="https://github.com/devflames">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devflames&theme=tokyonight" height="180" alt="Top Languages by Repo"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/devflames">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devflames&theme=tokyonight" height="180" alt="Top Languages by Commit"/>
+</a>
+
+<br/><br/>
+
+<!-- Contribution activity graph -->
+<a href="https://github.com/devflames">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devflames&theme=react-dark&hide_border=true&bg_color=0f172a&color=7c3aed&line=a78bfa&point=7c3aed&area=true&height=300" alt="Contribution Graph"/>
+</a>
 
 </div>
 
