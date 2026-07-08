@@ -11,7 +11,7 @@
 <!-- Social Badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-devflames-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devflames)
 [![Email](https://img.shields.io/badge/Email-devflames%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devflames@gmail.com)
-[![Website](https://img.shields.io/badge/Website-friendsialize.com-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.friendsialize.com)
+[![Website](https://img.shields.io/badge/Portfolio-GitHub%20Profile-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devflames)
 [![Location](https://img.shields.io/badge/Location-Cebu%2C%20Philippines-0EA5E9?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
 </div>
@@ -167,10 +167,10 @@ I'm a **Full Stack Developer** from the Philippines with years of experience del
 
 | Period | Role | Company | Highlights |
 |:------:|:-----|:--------|:-----------|
-| **2021** | Senior Full Stack Developer | [**AevaPay**](https://axltoken.com) | Built AXL Token ecosystem & production DApp |
+| **2021** | Senior Full Stack Developer | **AevaPay** | Built AXL Token ecosystem & production DApp |
 | **2021–2022** | AI Tasker (Freelance) | Remotasks / Smart Ecosystem | Remote AI task delivery at scale |
-| **2022** | Full Stack Developer | [**Guild of Guilds**](https://www.guildofguilds.gg/) | Cross-chain GameFi platform & DApp |
-| **2023** | Web Developer | [**CLATB**](https://clatb.org/) | Full website built from scratch |
+| **2022** | Full Stack Developer | **Guild of Guilds** | Cross-chain GameFi platform & DApp |
+| **2023** | Web Developer | **Chaucer's Literary & Talent Bureau (CLATB)** | Full website built from scratch |
 | **2024** | Marketing Manager | [**Blossoms.com**](https://blossoms.com/) | Digital marketing & platform growth |
 | **2014–2019** | Game Server Developer | Private MMORPG Servers | Servers, launchers & reverse engineering |
 | **2012–2014** | IT Department | Autoliv Cebu | Enterprise IT operations |
@@ -179,15 +179,18 @@ I'm a **Full Stack Developer** from the Philippines with years of experience del
 
 ## 🚀 Featured Projects
 
+> *Some client platforms are no longer live online. These entries focus on what was **built and delivered** — demos and details available on request.*
+
 <div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⛓️ [AevaPay — AXL Token](https://axltoken.com)
+### ⛓️ AevaPay — AXL Token
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-7C3AED?style=for-the-badge&logo=ethereum&logoColor=white)](https://axltoken.com)
+[![Live](https://img.shields.io/badge/Status-Live-22C55E?style=for-the-badge&logo=ethereum&logoColor=white)](https://axltoken.com)
+[![View](https://img.shields.io/badge/View-axltoken.com-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://axltoken.com)
 
 - Built & launched the complete **AXL Token** ecosystem
 - Developed full-stack DApp with smart contract integration
@@ -197,27 +200,30 @@ I'm a **Full Stack Developer** from the Philippines with years of experience del
 </td>
 <td width="50%" valign="top">
 
-### 🎮 [Guild of Guilds](https://www.guildofguilds.gg/)
+### 🎮 Guild of Guilds
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-7C3AED?style=for-the-badge&logo=unity&logoColor=white)](https://www.guildofguilds.gg/)
-[![Docs](https://img.shields.io/badge/Docs-GitBook-248BF5?style=for-the-badge&logo=gitbook&logoColor=white)](https://grown-up-gamefi.gitbook.io/)
+![Delivered](https://img.shields.io/badge/Status-Project%20Delivered-64748B?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Archived](https://img.shields.io/badge/Site-Offline-94A3B8?style=for-the-badge)
 
 - Cross-chain **GameFi** platform for guilds & players
 - Full-stack DApp with token-based game mechanics
 - Scalable Web3 architecture & blockchain integrations
+- *Platform delivered in 2022 — original site no longer hosted*
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [Chaucer's Literary & Talent Bureau](https://clatb.org/)
+### 🌐 Chaucer's Literary & Talent Bureau
 
-[![Live Demo](https://img.shields.io/badge/Live-Site-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://clatb.org/)
+![Delivered](https://img.shields.io/badge/Status-Project%20Delivered-64748B?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Archived](https://img.shields.io/badge/Site-Offline-94A3B8?style=for-the-badge)
 
 - Designed & developed the **entire production website**
 - Responsive UI with full frontend & backend architecture
 - Production-ready deployment for a literary agency
+- *Full build completed in 2023 — domain since retired*
 
 </td>
 <td width="50%" valign="top">
@@ -275,7 +281,7 @@ I'm open to **freelance projects**, **remote roles**, and **international collab
 [![GitHub](https://img.shields.io/badge/GitHub-@devflames-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devflames)
 [![Email](https://img.shields.io/badge/Email-devflames%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devflames@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B63%20955%20850%205615-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/639558505615)
-[![Website](https://img.shields.io/badge/Portfolio-friendsialize.com-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.friendsialize.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Profile-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devflames)
 
 <br/>
 
