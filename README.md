@@ -139,9 +139,7 @@ I'm a **Full Stack Developer** from the Philippines with years of experience del
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devflames&theme=tokyonight" height="180" alt="GitHub Stats"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/devflames">
-  <img src="https://streak-stats.demolab.com/?user=devflames&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-</a>
+<img src="./assets/streak.svg" height="195" alt="GitHub Streak"/>
 
 <br/><br/>
 
