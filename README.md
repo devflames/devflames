@@ -1,10 +1,10 @@
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:7c3aed&height=220&section=header&text=Albert%20Camingawan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Blockchain%20Engineer%20%7C%20Systems%20Engineer&descAlignY=58&descSize=18&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:7c3aed&height=220&section=header&text=Albert%20Camingawan&fontSize=48&fontColor=ffffff&animation=fadeIn&font[...]" />
 
 <div align="center">
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+production-ready+web+%26+blockchain+platforms;Crafting+scalable+DApps+%26+token+ecosystems;Delivering+end-to-end+full+stack+solutions;Open+to+remote+%26+international+collaborations" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+production-ready+web+%26+blockchain+platf[...]" />
 
 <br/>
 
@@ -37,7 +37,7 @@ const albert = {
 };
 ```
 
-I'm a **Full Stack Developer** from the Philippines with years of experience delivering **production-ready** web applications, decentralized platforms, and backend systems. I specialize in turning complex ideas into reliable, scalable software — from token ecosystems and GameFi DApps to full business websites and game server infrastructure.
+I'm a **Full Stack Developer** from the Philippines with years of experience delivering **production-ready** web applications, decentralized platforms, and backend systems. I specialize in turning[...]
 
 ---
 
@@ -45,17 +45,17 @@ I'm a **Full Stack Developer** from the Philippines with years of experience del
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%20didn%27t%20wait%20for%20a%20degree%20or%20a%20bootcamp.%20I%20started%20learning%20in%202010%20with%20nothing%20but%20curiosity%20and%20determination.&author=Albert%20Camingawan&border=true&bgColor=0f172a&titleColor=7C3AED&textColor=E2E8F0" alt="Journey Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%20didn%27t%20wait%20for%20a%20degree%20or%20a%20bootcamp.%20I%20started%20learning%20in%202010%20with[...]" />
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%20worked%20my%20way%20up%20from%20the%20ground%20—%20teaching%20myself%20every%20skill%20I%20needed,%20one%20project%20at%20a%20time,%20until%20I%20became%20a%20Full%20Stack%20Developer.&author=Albert%20Camingawan&border=true&bgColor=0f172a&titleColor=7C3AED&textColor=E2E8F0" alt="Self Learning Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%20worked%20my%20way%20up%20from%20the%20ground%20—%20teaching%20myself%20every%20skill%20I%20needed[...]" />
 
 </div>
 
 <br/>
 
-> *"No shortcuts. No hand-holding. Just years of late nights, real-world projects, failed attempts, and the discipline to learn whatever the next challenge demanded — frontend, backend, blockchain, cloud, or systems engineering."*
+> *"No shortcuts. No hand-holding. Just years of late nights, real-world projects, failed attempts, and the discipline to learn whatever the next challenge demanded — frontend, backend, blockcha[...]
 
 <table>
 <tr>
@@ -156,7 +156,7 @@ I'm a **Full Stack Developer** from the Philippines with years of experience del
 
 <!-- Contribution activity graph -->
 <a href="https://github.com/devflames">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devflames&theme=react-dark&hide_border=true&bg_color=0f172a&color=7c3aed&line=a78bfa&point=7c3aed&area=true&height=300" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devflames&theme=react-dark&hide_border=true&bg_color=0f172a&color=7c3aed&line=a78bfa&point=7c3aed&area=true&height=300" [...]"/>
 </a>
 
 </div>
@@ -244,11 +244,32 @@ I'm a **Full Stack Developer** from the Philippines with years of experience del
 
 ---
 
+## 🧠 ApkayA & ApkayA AI — Platform Progress
+
+[ApkayA AI repository](https://github.com/devflames/ApkayA-AI) — ongoing multi-provider AI infrastructure and operator platform.
+
+- ApkayA AI is a full-stack platform for multi-provider model integration, agent execution, project memory and code intelligence. The project has completed design and implementation through Phase 10 (Advanced Development Platform). Key platform highlights:
+  - Phase 0–8: Platform foundation, agent runtime, developer workspace, secure execution, git automation, MCP/extensibility, memory/project intelligence, Jarvis operator, and product UX — all implemented.
+  - Phase 9 (Production hardening): Implementation and operator-verification tooling are complete; remaining items include live CI/runtime security/load evidence, production cluster deployment verification, and disaster-recovery drill evidence that require operator execution and runtime proofs.
+  - Phase 10 (Advanced Development Platform): Browser automation, isolated headless sessions, web search/navigation primitives, LSP/code diagnostics adapter, dependency graph analysis, automated refactoring primitives, remote development connector contracts, CI/CD pipeline automation, and marketplace/role-based capabilities — implemented and available in the repo.
+
+- Important artifacts in the repo:
+  - docs/PHASE-9-VERIFICATION-RUNBOOK.md — operator runbook for CI, k6, sandbox/tenant verification, Kubernetes rollout, observability, and disaster recovery.
+  - scripts/verify-phase9.sh — non-destructive local/Docker/Kubernetes health checker that writes timestamped evidence logs.
+  - lib/phase10/* — implementation files for browser automation, code intelligence, remote workspace connectors, and collaboration/marketplace boundaries.
+  - sandbox-worker/README.md — security and runtime contract for sandbox worker execution.
+
+- How this maps to my profile work: I'm actively developing and maintaining ApkayA AI (architecture, platform features, verification tooling, and sandbox boundaries). The project demonstrates my experience with production hardening, AI agent operationalization, secure sandboxing, and developer platform design.
+
+- Want to collaborate or see live verification? Check the repo, open an issue, or contact me to request operator verification runs and deployment evidence.
+
+---
+
 ## 🎯 Services I Offer
 
 <div align="center">
 
-| | | |
+| | | | |
 |:---:|:---:|:---:|
 | 🌐 **Full Stack Web Development** | ⛓️ **Blockchain & DApp Development** | ☁️ **Cloud & API Architecture** |
 | React, Next.js, Node.js platforms | Smart contracts, Web3, token systems | AWS, Azure, REST APIs, auth |
