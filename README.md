@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:7c3aed&height=220&section=header&text=Albert%20Camingawan&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:7c3aed&height=220&section=header&text=Albert%20Camings&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 
 <div align="center">
 
@@ -171,8 +171,8 @@ My path now shapes three distinct ApkayA initiatives: **ApkayASocial** for custo
 
 ### ⛓️ ApkayA Web3Platform
 
-![Roadmap](https://img.shields.io/badge/Roadmap-Phase%209-22C55E?style=for-the-badge&logo=ethereum&logoColor=white)
-![Source](https://img.shields.io/badge/Source-Public-7C3AED?style=for-the-badge&logo=github&logoColor=white)
+[![Roadmap](https://img.shields.io/badge/Roadmap-Phase%209-22C55E?style=for-the-badge&logo=ethereum&logoColor=white)](https://github.com/devflames)
+[![Source](https://img.shields.io/badge/Source-Public-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devflames)
 
 - Open, self-hostable on-chain developer infrastructure
 - Transaction Engine, Insight indexer, Dashboard & CLI
@@ -186,7 +186,7 @@ My path now shapes three distinct ApkayA initiatives: **ApkayASocial** for custo
 
 ### 🏢 ApkayA Enterprise Platform
 
-![Private](https://img.shields://img.shields.io/badge/Status-Private-64748B?style=for-the-badge)
+![Private](https://img.shields.io/badge/Status-Private-64748B?style=for-the-badge)
 
 - Multi-tenant security, cloud, hosting & billing control plane
 - WAF, licensing, reseller, white-label & AI operations
@@ -198,7 +198,7 @@ My path now shapes three distinct ApkayA initiatives: **ApkayASocial** for custo
 
 ### 🤖 ApkayA AI
 
-![Ongoing](https://img.shields.io/badge/Status-Ongoing-7C3AED?style=for-the-badge&logo=robotframework&logoColor=white)
+[![Ongoing](https://img.shields.io/badge/Status-Ongoing-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devflames/ApkayA-AI)
 
 - Multi-provider AI and developer platform
 - Agent execution, project memory & code intelligence
@@ -275,7 +275,7 @@ My path now shapes three distinct ApkayA initiatives: **ApkayASocial** for custo
 | Project | Focus | Audience | Repository / Source | Status |
 |---|---|---|---|---|
 | **ApkayASocial** | Social-platform product & infrastructure | Customer-deployable platform operators | Commercial licensed direction; license undecided | Pre-deployment · active build |
-| **ApkayA Web3Platform** | On-chain developer infrastructure | Blockchain application developers | Public official repository | v0 roadmap complete through Phase 9 |
+| **ApkayA Web3Platform** | On-chain developer infrastructure | Blockchain application developers | [Public work](https://github.com/devflames) | v0 roadmap complete through Phase 9 |
 | **ApkayA Enterprise Platform** | Security, cloud, hosting, billing & AI control plane | MSPs and enterprise resellers | Private source; public docs & SDK | v6.0.0 · README-stated Production Ready |
 
 **Status labels reflect the supplied project descriptions, not independent deployment verification.**
