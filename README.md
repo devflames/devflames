@@ -1,325 +1,279 @@
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:7c3aed&height=220&section=header&text=Albert%20Camingawan&fontSize=48&fontColor=ffffff&animation=fadeIn&font[...]" />
-
 <div align="center">
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+production-ready+web+%26+blockchain+platf[...]" />
+# Albert Camings.
+### Full-stack developer · Blockchain engineer
+**Built end to end.**
 
-<br/>
+I’m **devflames**, a senior full-stack developer building scalable products and the infrastructure behind them. From interfaces and backend systems to blockchain and deployment, I take the work from idea to implementation—and keep it running. My hands-on developer journey began in 2010, evolving from self-taught programming into full-stack development, Web3 infrastructure, and enterprise platform engineering.
 
-<!-- Social Badges -->
-[![GitHub](https://img.shields.io/badge/GitHub-devflames-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devflames)
-[![Email](https://img.shields.io/badge/Email-devflames%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devflames@gmail.com)
-[![Website](https://img.shields.io/badge/Portfolio-GitHub%20Profile-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devflames)
-[![Location](https://img.shields.io/badge/Location-Cebu%2C%20Philippines-0EA5E9?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+📍 Philippines · Open to remote collaboration  
+[Email Albert](mailto:devflames@gmail.com) · [GitHub](https://github.com/devflames) · [ApkayA ecosystem](#apkaya-ecosystem)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About me
 
-```typescript
-const albert = {
-  role: "Full Stack Developer & Blockchain Engineer",
-  location: "Philippines (Remote-ready)",
-  journeyStarted: 2010,
-  path: "Self-taught — learned by building, breaking, and rebuilding",
-  focus: [
-    "Scalable Web Applications",
-    "DApps & Smart Contract Integration",
-    "GameFi & Cross-chain Platforms",
-    "Cloud-native Backend Systems",
-  ],
-  currentlyLearning: ["AI-assisted Development", "Blockchain Infrastructure"],
-  openTo: ["Remote Opportunities", "International Collaborations", "Client Projects"],
+I taught myself programming starting in 2010, learning by building—from enterprise IT and game-server systems to full-stack development and blockchain engineering. I still like owning the work end to end: interfaces, services, infrastructure, and deployment.
+
+That path now shapes three separate ApkayA initiatives: **ApkayASocial** for customer-owned social platforms, **ApkayA Web3Platform** for on-chain developer infrastructure, and **ApkayA Enterprise Platform** for a private enterprise control plane. Each solves a different problem, with its own architecture and build status. They are separate projects, not one product with interchangeable features.
+
+| | |
+|---|---|
+| Based in | Philippines |
+| Self-taught beginnings | 2010 |
+| Also known as | devflames |
+| Website listed on portfolio | ApkayA Inc |
+| Focus | Web · Web3 · AI |
+
+```ts
+// building across the stack
+const developer = {
+  name: "Albert Camings",
+  alias: "devflames",
+  basedIn: "Philippines",
+  started: 2010,
+  focus: ["web", "Web3", "AI"]
 };
+// keep building
 ```
 
-I'm a **Full Stack Developer** from the Philippines with years of experience delivering **production-ready** web applications, decentralized platforms, and backend systems. I specialize in turning[...]
+**Origin:** Self-taught developer building software, infrastructure, and platforms since 2010.  
+**Practice:** Hands-on full-stack delivery.  
+**Systems:** Platform engineering.  
+**Specialism:** Blockchain / Web3.  
+**Scale:** Enterprise and infrastructure.
 
 ---
 
-## 💡 My Journey — Self-Taught Since 2010
+## Selected work
 
-<div align="center">
+Selected work across AI, blockchain, web, and game infrastructure. The three ApkayA startups are distinct platforms, each with a different audience and status.
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%20didn%27t%20wait%20for%20a%20degree%20or%20a%20bootcamp.%20I%20started%20learning%20in%202010%20with[...]" />
+### ApkayASocial
+**Pre-deployment · Active build**
 
-<br/><br/>
+A customer-deployable social-platform foundation built for audience, data, branding, and monetization ownership. This is a greenfield TypeScript system, not a legacy fork; inherited legacy code is a functional reference only and no legacy source is used.
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%20worked%20my%20way%20up%20from%20the%20ground%20—%20teaching%20myself%20every%20skill%20I%20needed[...]" />
+- **For:** Platform operators.
+- **Built with:** TypeScript; Next.js 15, React 19, Fastify 5, PostgreSQL, Prisma 6, Socket.IO, Redis, BullMQ, Zod, Node.js.
+- **Direction:** Potential commercially licensed customer deployment; product license is undecided.
+- **Source:** Commercial direction; product under active build and not yet live.
 
-</div>
+### ApkayA Web3Platform
+**v0 · Roadmap complete through Phase 9**
 
-<br/>
+Open, self-hostable developer infrastructure for on-chain applications: transaction Engine, Insight indexer, dashboard, CLI, SDKs, and contracts.
 
-> *"No shortcuts. No hand-holding. Just years of late nights, real-world projects, failed attempts, and the discipline to learn whatever the next challenge demanded — frontend, backend, blockcha[...]
+- **For:** Developers building blockchain applications.
+- **Architecture:** Independently deployable Engine, indexer, dashboard, and SDKs.
+- **Direction:** Reusable tooling and self-hosted infrastructure.
+- **Source:** Public official repository. The supplied portfolio copy did not include its URL.
+- Roadmap completion is not a claim of production scale or adoption.
 
-<table>
-<tr>
-<td align="center" width="25%">📚 <b>2010</b><br/>Started self-learning<br/>programming fundamentals</td>
-<td align="center" width="25%">🔧 <b>2012–2014</b><br/>IT experience &<br/>hands-on systems work</td>
-<td align="center" width="25%">🎮 <b>2014–2019</b><br/>Built game servers,<br/>launchers & backends</td>
-<td align="center" width="25%">🚀 <b>2021–Today</b><br/>Full Stack &<br/>Blockchain developer</td>
-</tr>
-</table>
+### ApkayA Enterprise Platform
+**Private · v6.0.0 Enterprise Final**
 
-<table>
-<tr>
-<td width="50%" valign="top">
+A private multi-tenant control plane for security, cloud, hosting, billing, licensing, white-label tooling, and AI operations.
 
-**What I bring to your project**
+- **For:** MSPs, security teams, hosting providers, and enterprise resellers.
+- **Architecture:** Next.js, NestJS, Prisma, cloud adapters, and separated dashboard, API, licensing services, data packages, and deployment tooling.
+- **Source:** Private proprietary source; public documentation and SDK are available separately.
+- **Status:** Production Ready according to the supplied README; not independently verified as a live deployment.
 
-- End-to-end ownership — design through deployment
-- Blockchain & Web3 integration expertise
-- Clean, maintainable, production-grade code
-- Strong debugging & performance optimization
-- Clear communication with clients & teams
+### ApkayA AI
+An ongoing multi-provider AI and developer platform. Major features are implemented, with some production verification still outstanding.
 
-</td>
-<td width="50%" valign="top">
+### Other selected work
 
-**Core expertise**
-
-- Modern JavaScript / TypeScript ecosystems
-- React, Next.js, Node.js, NestJS
-- Smart contracts, DApps, DeFi, NFTs
-- REST APIs, auth systems, databases
-- AWS, Azure, GCP & CI/CD pipelines
-- C++, C# & low-level systems work
-
-</td>
-</tr>
-</table>
+- **AevaPay / AXL Token — Web3, blockchain, full-stack:** Full-stack work connected to the AXL Token ecosystem and blockchain applications.
+- **Guild of Guilds — GameFi, full-stack:** Full-stack work on a GameFi platform, bringing web application development together with blockchain-focused systems.
+- **Chaucer’s Literary & Talent Bureau — web development:** Completed website; its domain has since been retired.
+- **MMORPG infrastructure — game servers, backend:** Custom game-server systems and infrastructure work grounded in hands-on server development.
 
 ---
 
-## 🛠 Tech Stack
+## ApkayA ecosystem
 
-<div align="center">
+Three distinct initiatives with different audiences, architectures, repositories, and build stages. They belong to a broader ecosystem, but this does **not** imply that they already integrate or share features. Licensing, deployment, extensibility, identity, infrastructure, and developer tooling are strengths that could inform future work across the ecosystem; those are possibilities, not existing integrations or verified outcomes.
 
-### Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,angular,nodejs,nestjs,express,laravel,php,java,cpp,cs&perline=8)](https://skillicons.dev)
+| Project | Focus | Audience | Repository / source | Current status |
+|---|---|---|---|---|
+| **ApkayASocial** | Social-platform product and infrastructure | Customer-deployable social-platform operators | Commercial licensed direction; product license undecided | Pre-deployment · under active build |
+| **ApkayA Web3Platform** | On-chain developer infrastructure | Developers building blockchain applications | Public official repository | v0 roadmap complete through Phase 9 |
+| **ApkayA Enterprise Platform** | Security, cloud, hosting, billing, licensing, white-label, and AI control plane | MSPs, security teams, hosting providers, enterprise resellers | Private proprietary source; public docs and SDK | v6.0.0 · Production Ready according to supplied README |
 
-### Databases, Cloud & Tools
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,aws,azure,gcp,docker,git,github,figma,flutter&perline=8)](https://skillicons.dev)
+**Status legend:** “Production Ready” is README-stated; “v0 roadmap complete” means Phase 9; “pre-deployment / under active build” indicates ongoing work. Planned, parked, architecture-only, and deferred work is not shipped. Roadmap completion and repository claims are not live-deployment verification. Details here are summarized from the supplied project README descriptions, not independent audits.
 
-</div>
+### 01 / Social infrastructure — ApkayASocial
 
-<br/>
+A greenfield TypeScript rebuild for commercial licensed distribution and customer deployment. It is not a legacy fork. The product thesis is to give customers a way to own their audience, data, branding, and monetization without platform lock-in.
 
-<div align="center">
+**Owner / maintainer:** Albert Camings · ApkayA Inc.
 
-| Frontend | Backend | Blockchain | DevOps & Cloud |
-|:--------:|:-------:|:----------:|:--------------:|
-| React · Next.js · Nuxt | Node.js · Express · NestJS | Smart Contracts · Web3 | AWS · Azure · GCP |
-| Vue · Angular · TypeScript | Laravel · ThinkPHP · REST | DApps · DeFi · NFTs | Git · CI/CD · Docker |
-| Tailwind · Bootstrap · Sass | Auth Systems · APIs | Token Ecosystems | Unit & Integration Testing |
-| Figma · Adobe XD · Sketch | PostgreSQL · MongoDB | Multi-chain Integration | Performance Optimization |
+#### Build status
 
-</div>
+Core domains are feature-complete across API and web layers, with the exceptions below. The latest README reports **1,768 tests across five suites**: API 1,025 (1,020 passing, 5 environment-gated skips), shared 480/480, web 233/233, realtime 10/10, and license server 20/20. This is test coverage, not a claim of live or production-ready deployment.
 
----
+#### Product scope and current boundaries
 
-## 📊 GitHub Analytics
+Identity and authentication; profiles and social graph; posts and feeds; messaging; notifications and realtime; media, stories, camera and effects; forums, blogs, jobs, crowdfunding, movies and games; plans and verification; admin console; extensibility; and a separate license server.
 
-<div align="center">
+- **Communities:** API layer complete; web UI pending.
+- **Store and commerce:** Shared contract only; no shipped surface.
+- **Live streaming and podcasts:** Architecture only.
+- **Creator economy, marketplace, AI, native mobile, and Web3:** Planned.
 
-<!-- Profile overview with contribution heatmap -->
-<a href="https://github.com/devflames">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devflames&theme=tokyonight" width="100%" alt="GitHub Profile Details"/>
-</a>
+#### Foundation and architecture
 
-<br/><br/>
+- Greenfield TypeScript rebuild rather than a legacy fork.
+- Shared Zod contracts between API and web.
+- Typed provider ports that report unavailable capabilities honestly.
+- Centralized authorization boundaries and privacy policies.
+- Ledger-first money modeling; payment gateway not yet wired.
+- Signed extension distribution and a separate Ed25519 license control plane.
+- **Experience → API:** Next.js 15 + React 19 web app → Fastify 5 REST API in a Node.js TypeScript monorepo.
+- **Realtime + data:** Socket.IO delivery service; PostgreSQL through Prisma 6; shared Zod contracts between web and API.
+- **Media + jobs:** sharp and ffmpeg processing, BullMQ + Redis queues, local or S3-compatible storage.
+- **Licensing:** Separate Ed25519 license server for signed licenses, activation, and entitlements; not deployed.
+- The customer app, shared contracts, data layer, and licensing control plane are maintained as separate architectural concerns.
 
-<!-- Stats + Streak side by side -->
-<a href="https://github.com/devflames">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devflames&theme=tokyonight" height="180" alt="GitHub Stats"/>
-</a>
-&nbsp;&nbsp;
-<img src="./assets/streak.svg" height="195" alt="GitHub Streak"/>
+#### Initial MVP, in plain language
 
-<br/><br/>
+Create an account; establish identity and privacy preferences; discover people and content; make connections; publish posts and stories; communicate in direct and group chats; receive notifications and build communities (community web UI still pending); operate with admin and monetization foundations (license deployment, entitlement wiring, and payment provider still pending).
 
-<!-- Top Languages -->
-<a href="https://github.com/devflames">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devflames&theme=tokyonight" height="180" alt="Top Languages by Repo"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/devflames">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devflames&theme=tokyonight" height="180" alt="Top Languages by Commit"/>
-</a>
+#### Security and trust foundations
 
-<br/><br/>
+Implemented controls, not a guarantee of security or production readiness:
 
-<!-- Contribution activity graph -->
-<a href="https://github.com/devflames">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devflames&theme=react-dark&hide_border=true&bg_color=0f172a&color=7c3aed&line=a78bfa&point=7c3aed&area=true&height=300" [...]"/>
-</a>
+- Argon2id password hashing; 15-minute access JWTs and hashed one-time refresh tokens.
+- TOTP 2FA and recovery codes; rate limiting.
+- Privacy controls and viewer-bound signed media URLs.
+- Secret scanning; no private signing keys in the customer application.
 
-</div>
+#### Commercial architecture and next steps
 
----
+The customer application is under active build. The license server is code-complete with 20/20 tests but not deployed. A release and distribution service is architecture-only; the web installer is deferred; the product license is undecided.
 
-## 💼 Professional Experience
+Deployment is parked by owner direction while feature completion continues. Future or parked work includes a live database, production hosting, payment provider wiring, end-to-end live verification, email/push delivery, entitlement consumption, license-server deployment, production hardening, creator economy, marketplace, live streaming, podcasting, advertising, AI, native mobile, and Web3. Advertising architecture has inert slices only; no advertising feature is shipped.
 
-| Period | Role | Company | Highlights |
-|:------:|:-----|:--------|:-----------|
-| **2021** | Senior Full Stack Developer | **AevaPay** | Built AXL Token ecosystem & production DApp |
-| **2021–2022** | AI Tasker (Freelance) | Remotasks / Smart Ecosystem | Remote AI task delivery at scale |
-| **2022** | Full Stack Developer | **Guild of Guilds** | Cross-chain GameFi platform & DApp |
-| **2023** | Web Developer | **Chaucer's Literary & Talent Bureau (CLATB)** | Full website built from scratch |
-| **2024** | Marketing Manager | [**Blossoms.com**](https://blossoms.com/) | Digital marketing & platform growth |
-| **2014–2019** | Game Server Developer | Private MMORPG Servers | Servers, launchers & reverse engineering |
-| **2012–2014** | IT Department | Autoliv Cebu | Enterprise IT operations |
+### 02 / Developer infrastructure — ApkayA Web3Platform
 
----
+A separate, open, self-hostable foundation for on-chain applications—contracts, wallets, and a transaction backend. The supplied v0 roadmap is complete through Phase 9; that does not establish production scale or adoption.
 
-## 🚀 Featured Projects
+#### Engine-first architecture
 
-> *Some client platforms are no longer live online. These entries focus on what was **built and delivered** — demos and details available on request.*
+- **Engine:** Independently deployable REST transaction backend with a durable Postgres-backed queue, backend wallets, transaction signing, sending, and status.
+- **Insight:** Read-only EVM event indexer and query API for token balances, NFT ownership, and transfers.
+- **Dashboard:** React developer UI for projects, API keys, backend wallets, and deployments.
+- **CLI:** `apkaya create` and `apkaya deploy`, alongside login, wallet, transaction, and API-key commands.
 
-<div align="center">
+#### SDKs, contracts, and access
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Packages cover a TypeScript SDK; React Native and Flutter SDKs; Unity UPM and Unreal plugins; wallet connect, in-app email wallet and SIWE; ERC20, ERC721 and ERC1155 Solidity templates with extensions; and deployment helpers. Connect includes an end-user wallet modal. Bridge includes BuyWidget and SwapWidget through Coinbase CDP.
 
-### ⛓️ AevaPay — AXL Token
+API keys are hashed per customer and individually revocable, managed through a separate admin-only key—not one shared static secret.
 
-[![Live](https://img.shields.io/badge/Status-Live-22C55E?style=for-the-badge&logo=ethereum&logoColor=white)](https://axltoken.com)
-[![View](https://img.shields.io/badge/View-axltoken.com-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://axltoken.com)
+#### v0 roadmap · completed through Phase 9
 
-- Built & launched the complete **AXL Token** ecosystem
-- Developed full-stack DApp with smart contract integration
-- Implemented secure transaction flows & wallet concepts
-- Designed multi-chain architecture & authentication
+Engine queue, backend wallets and send/status endpoints → ERC20/ERC721 templates and deployment → thin TypeScript SDK → Dashboard → CLI login/create/deploy/wallet/tx/apikey → Connect and SIWE → Bridge widgets → Insight indexing → self-host polish (Docker Compose and QUICKSTART) → React Native and Flutter → Unity and Unreal → Solana ChainAdapter, wallets/transfers and Insight slot indexer.
 
-</td>
-<td width="50%" valign="top">
+**Local development references only:** Docker Compose or native development; Dashboard `localhost:5173`, Engine `:3005`, Insight `:3006`. These are not public deployment endpoints.
 
-### 🎮 Guild of Guilds
+The reusable Engine-first foundation could support developer tooling across contract deployment, wallet connections, indexing, mobile, game engines, and multiple chains. These are product possibilities, not claims of usage or commercial outcomes. See the official public repository for source and project details.
 
-![Delivered](https://img.shields.io/badge/Status-Project%20Delivered-64748B?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Archived](https://img.shields.io/badge/Site-Offline-94A3B8?style=for-the-badge)
+### 03 / Private commercial control plane — ApkayA Enterprise Platform
 
-- Cross-chain **GameFi** platform for guilds & players
-- Full-stack DApp with token-based game mechanics
-- Scalable Web3 architecture & blockchain integrations
-- *Platform delivered in 2022 — original site no longer hosted*
+**v6.0.0 Enterprise Final · Production Ready according to supplied README.** Private proprietary source; public documentation and SDK are available separately. The stated release status is not independent assurance of live deployment.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+#### At a glance
 
-### 🌐 Chaucer's Literary & Talent Bureau
+The repository description reports 69 Next.js dashboard pages plus middleware and dynamic module router; 60+ sidebar entries in six groups; 40+ NestJS API modules under `/api/v1`; 101+ Prisma models; 14 cloud-provider adapters; 241 API unit tests across 69 suites; 15 license-server tests; and Playwright E2E. Listed payment options include Stripe, PayPal, Razorpay, wallet, coupons, and metered billing. These are repository-reported figures.
 
-![Delivered](https://img.shields.io/badge/Status-Project%20Delivered-64748B?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Archived](https://img.shields.io/badge/Site-Offline-94A3B8?style=for-the-badge)
+#### Security and WAF
 
-- Designed & developed the **entire production website**
-- Responsive UI with full frontend & backend architecture
-- Production-ready deployment for a literary agency
-- *Full build completed in 2023 — domain since retired*
+OWASP CRS inspection, firewall events, live attack feed, IP/ASN/geo blocking, bot protection, rate limiting, DDoS dashboard, API security, incident center, threat map, custom rules, and real-time analytics.
 
-</td>
-<td width="50%" valign="top">
+**Listed controls, not guarantees:** JWT and bcrypt; RBAC across nine roles; plan-based feature gating; organization-scoped multi-tenancy; Helmet, CORS, and throttling; audit logs; Stripe webhook verification; AES-256-GCM for cloud credentials; HMAC verification for plugins, themes, and updates; service-key protection for license-server APIs.
 
-### 🖥️ MMORPG Infrastructure
+#### Cloud, hosting, and business
 
-[![Systems](https://img.shields.io/badge/Systems-Engineering-0EA5E9?style=for-the-badge&logo=server-fault&logoColor=white)](#)
+Fourteen adapters: AWS, GCP, Azure, DigitalOcean, Vultr, Linode, OVH, Hetzner, Oracle, Alibaba, Cloudflare, BunnyCDN, Wasabi, and Backblaze. Includes encrypted credential handling, async sync jobs, DNS/SSL tools, a hosting marketplace, server-side cart, wallet checkout, provisioning, bundles, coupons, and an order lifecycle.
 
-- Custom game servers & backend services
-- Launcher systems — patching, updates, asset delivery
-- Reverse engineering, debugging & performance tuning
+Billing covers Stripe, PayPal, Razorpay, PayMongo, Coinbase Commerce, and wallet payments, plus dunning and invoicing. Reseller tiers, sub-resellers, differential commission chains, per-reseller branding, custom domains, wallet and payouts, referral registration, and an admin console form the white-label direction. MSSP console, SSO/SAML, compliance, and edition-driven flags round out the business platform.
 
-</td>
-</tr>
-</table>
+#### Extensibility, licensing, and AI
 
-</div>
+Signed plugin marketplace with HMAC-verified manifests and semver lifecycle; theme marketplace with design tokens, preview, and licensing; enterprise updater with channels, backups, rollback, and signature verification. The standalone license server has admin/customer portals, machine-bound activation, and a service-key API; customer portal covers licenses, billing, downloads, and support.
+
+AI operations at `/ai-operations` cover security analysis, threat detection, cost optimization, capacity forecasting, billing insights, and a support assistant.
+
+#### Architecture and delivery
+
+- **Dashboard · `:3000`:** Next.js 14 App Router, React 18, TypeScript, and Tailwind CSS.
+- **API · `:4000`:** NestJS 10, Express, class-validator DTOs, and JWT authentication.
+- **Data and jobs:** PostgreSQL 16 + Prisma ORM 5; Redis 7 + BullMQ; metrics, tracing, and compression.
+- **Optional licensing:** License server `:4100` and license portal `:3100`.
+- **Deployment:** Docker Compose development/production, Kubernetes Helm HA/autoscaling, and Terraform AWS multi-region; installation wizard; Prometheus, OpenTelemetry, Grafana, and Loki; GitHub Actions CI/CD and Docker multi-stage builds.
+
+The dashboard, API, licensing services, data packages, and deployment tooling are separated by responsibility. Architecture descriptions are not public endpoints.
+
+#### Commercial direction and potential
+
+The private commercial source monorepo is proprietary, with access restricted to ApkayA Enterprise Inc. maintainers and licensed customers. A unified multi-tenant control plane could support recurring licensed distribution, white-label and reseller expansion, cloud/hosting marketplace workflows, signed extensibility, and AI-assisted operations. These are intended product possibilities, not verified commercial outcomes. Public documentation and SDK are separate from platform source.
 
 ---
 
-## 🧠 ApkayA & ApkayA AI — Platform Progress
+## Technical capabilities
 
-[ApkayA AI repository](https://github.com/devflames/ApkayA-AI) — ongoing multi-provider AI infrastructure and operator platform.
+Grouped by where they fit in the build—from interfaces and services to infrastructure and Web3.
 
-- ApkayA AI is a full-stack platform for multi-provider model integration, agent execution, project memory and code intelligence. The project has completed design and implementation through Phase 10 (Advanced Development Platform). Key platform highlights:
-  - Phase 0–8: Platform foundation, agent runtime, developer workspace, secure execution, git automation, MCP/extensibility, memory/project intelligence, Jarvis operator, and product UX — all implemented.
-  - Phase 9 (Production hardening): Implementation and operator-verification tooling are complete; remaining items include live CI/runtime security/load evidence, production cluster deployment verification, and disaster-recovery drill evidence that require operator execution and runtime proofs.
-  - Phase 10 (Advanced Development Platform): Browser automation, isolated headless sessions, web search/navigation primitives, LSP/code diagnostics adapter, dependency graph analysis, automated refactoring primitives, remote development connector contracts, CI/CD pipeline automation, and marketplace/role-based capabilities — implemented and available in the repo.
-
-- Important artifacts in the repo:
-  - docs/PHASE-9-VERIFICATION-RUNBOOK.md — operator runbook for CI, k6, sandbox/tenant verification, Kubernetes rollout, observability, and disaster recovery.
-  - scripts/verify-phase9.sh — non-destructive local/Docker/Kubernetes health checker that writes timestamped evidence logs.
-  - lib/phase10/* — implementation files for browser automation, code intelligence, remote workspace connectors, and collaboration/marketplace boundaries.
-  - sandbox-worker/README.md — security and runtime contract for sandbox worker execution.
-
-- How this maps to my profile work: I'm actively developing and maintaining ApkayA AI (architecture, platform features, verification tooling, and sandbox boundaries). The project demonstrates my experience with production hardening, AI agent operationalization, secure sandboxing, and developer platform design.
-
-- Want to collaborate or see live verification? Check the repo, open an issue, or contact me to request operator verification runs and deployment evidence.
+| Area | Technologies and capabilities |
+|---|---|
+| Frontend & languages | JavaScript, TypeScript, React, Next.js, Vue, Angular, C++, C# |
+| Backend & data | Node.js, NestJS, Laravel, PostgreSQL, MongoDB |
+| Cloud & delivery | Docker, AWS, Azure, GCP, CI/CD |
+| Blockchain | Web3, smart contracts |
+| Data & queues | Prisma, Redis, BullMQ, indexing |
+| Security | RBAC, WAF, signed licensing, privacy controls |
+| Realtime & media | Socket.IO, messaging, media processing |
+| Deployment | Docker Compose, Kubernetes, Terraform, CI/CD |
 
 ---
 
-## 🎯 Services I Offer
+## Experience
 
-<div align="center">
+A hands-on path across full-stack development, blockchain engineering, platform infrastructure, and enterprise systems.
 
-| | | | |
-|:---:|:---:|:---:|
-| 🌐 **Full Stack Web Development** | ⛓️ **Blockchain & DApp Development** | ☁️ **Cloud & API Architecture** |
-| React, Next.js, Node.js platforms | Smart contracts, Web3, token systems | AWS, Azure, REST APIs, auth |
-| 📱 **Mobile Development** | 🎮 **Game & Systems Engineering** | 🤖 **AI-Integrated Solutions** |
-| React Native & Flutter apps | MMORPG servers, launchers, debugging | AI-assisted workflows & SaaS |
-
-</div>
+- **2010 · Self-taught beginnings:** Started learning programming by building, and kept moving toward deeper ownership of the systems behind each product.
+- **Enterprise IT & game servers:** Hands-on work across enterprise systems, custom MMORPG server infrastructure, and backend development.
+- **Full-stack & blockchain:** Web applications, AevaPay / AXL Token, and Guild of Guilds brought interfaces, services, and Web3 systems together.
+- **ApkayASocial:** Building a customer-deployable social-platform product and foundation, designed so customers can own their platform and audience.
+- **ApkayA Web3Platform:** Developing self-hostable developer infrastructure for on-chain applications, from transaction services to indexing and tooling.
+- **ApkayA Enterprise Platform:** Working on a separate, private commercial control plane for WAF, cloud, hosting, billing, licensing, white-label, and AI operations.
 
 ---
 
-## 🎓 Education
+## Contact
 
-<div align="center">
+I’m open to remote opportunities, client projects, and international collaboration. If you have a project or role in mind, send me a note.
 
-**High School Diploma** — Pulpogan National High School *(2007 – 2008)*  
-📍 Consolacion, Cebu, Philippines
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-I'm open to **freelance projects**, **remote roles**, and **international collaborations**.
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-@devflames-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devflames)
-[![Email](https://img.shields.io/badge/Email-devflames%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devflames@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B63%20955%20850%205615-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/639558505615)
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub%20Profile-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devflames)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=devflames&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views"/>
-
-</div>
+- **Email:** [devflames@gmail.com](mailto:devflames@gmail.com)
+- **GitHub:** [github.com/devflames](https://github.com/devflames)
+- **Public work:** Explore the public repositories on [GitHub](https://github.com/devflames).
+- **Upcoming venture:** ApkayA Inc.
 
 ---
 
 <div align="center">
 
-*"I started with self-learning in 2010, worked my way up through every challenge, and became a Full Stack Developer by never stopping — one skill, one project, one breakthrough at a time."*
+© Albert Camings · devflames
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f172a&height=100&section=footer&fontSize=14&fontColor=ffffff&animation=fadeIn"/>
-
-**Thanks for visiting! Let's build something great together.** 🚀
+*Built end to end. Keep building.*
 
 </div>
+
+---
+
+> **Portfolio source note:** This profile README reflects the portfolio copy supplied by Albert Camings. Project statuses, test counts, architecture details, and security controls are presented as described in that supplied material; they have not been independently audited or verified as live deployments.
